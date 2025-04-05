@@ -28,7 +28,14 @@ SECRET_KEY = 'django-insecure-rh*)x#_l85g5)1*-z#er_)*_+v!^5zj)57e3o@0%ho-z5(%-*+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+
+# /////////THIS BEFORE HOSTING////////////
+# ALLOWED_HOSTS = []
+
+
+# /////////THIS AFTER HOSTING RENDER GIVE YOU DOMAIN NAME////////////
+
+ALLOWED_HOSTS = ['django-multmedia.onrender.com']
 
 
 # Application definition
