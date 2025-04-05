@@ -1,0 +1,12 @@
+install=>sudo apt install python3-venv
+create =>python3 -m venv env
+activate => source env/bin/activate
+deactivate =>deactivate
+
+
+ 
+
+Emmosionaly
+Educations
+EnterTimentaly
+Povertyl
